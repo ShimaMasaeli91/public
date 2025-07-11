@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Public Directory - Portfolio Showcase
 
 A comprehensive portfolio showcasing multiple web applications including AI-powered tools, data visualization platforms, business intelligence dashboards, and strategic analysis tools. Built with modern web technologies including React, TypeScript, Vite, and responsive design principles.
@@ -328,3 +329,7 @@ For questions, suggestions, or collaboration opportunities, please create an iss
 ---
 
 **Updated**: January 2025 | **Applications**: 12+ | **Stack**: React + TypeScript + AI
+=======
+# public
+All my public projects in one repo
+>>>>>>> b1c8a75854333880f1f1e94c3e2bc73bfa65e36e
