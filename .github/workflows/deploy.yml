@@ -69,7 +69,6 @@ jobs:
       - name: Create deployment directory
         run: |
           mkdir -p public/deeptube public/dictator public/meeting-agent public/osee public/country-data public/gemini-js-sdk-doc
-          mkdir -p public/country-data/data
           mkdir -p public/
           mkdir -p public/business-data
           mkdir -p public/companies-data
@@ -81,7 +80,6 @@ jobs:
           cp -r osee/build/. public/osee/
           cp -r country-data/build/. public/country-data/
           cp -r gemini-js-sdk-doc/build/. public/gemini-js-sdk-doc/
-          cp -r country-data/public/data/* public/country-data/data/
           cp -r cv public/
           cp -r business-data/* public/business-data/
           cp -r companies-data/* public/companies-data/
