@@ -7,8 +7,8 @@
       "Bash(npm run build:*)",
       "Bash(bash:*)",
       "Bash(grep:*)",
-      "WebFetch(domain:happydreammmer.github.io)",
-      "WebFetch(domain:happydreammmer.github.io)",
+      "WebFetch(domain:shimamasaeli91.github.io)",
+      "WebFetch(domain:shimamasaeli91.github.io)",
       "Bash(npm install:*)",
       "Bash(diff:*)",
       "Bash(mkdir:*)"
