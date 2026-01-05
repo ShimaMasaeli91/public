@@ -111,5 +111,4 @@ temp/
 *.tar.gz
 
 # API keys and secrets
-apiKey.ts
-lib/apiKey.ts
+# Note: apiKey.ts files contain placeholder code only, no actual secrets
